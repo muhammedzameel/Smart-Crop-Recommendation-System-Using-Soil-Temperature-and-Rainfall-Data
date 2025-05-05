@@ -1,6 +1,6 @@
 pandas
 numpy
-streamlit
 pickle
+streamlit
 scikit-learn
 plotly
